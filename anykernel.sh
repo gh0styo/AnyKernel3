@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=Astera v4.14.336 Kernel by EreN and KSU-Next, SUSFS and Mountify by cvnertnc for Redmi Note 8 Pro (begonia)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
