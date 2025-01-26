@@ -4,14 +4,13 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Astera v4.14.336 Kernel by EreN and KSU-Next, SUSFS and Mountify by cvnertnc for Redmi Note 8 Pro (begonia)
+kernel.string=hysteria
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=begonia
-device.name2=begoniain
+device.name1=psyche
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
